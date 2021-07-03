@@ -1,11 +1,32 @@
-FF7Tools V1.3
+VDSTools <Unreleased>
 =============
 
-FF7Tools is a suite of command-line translation and hacking tools for the
-PlayStation 1 version of the game Final Fantasy VII by Squaresoft. It can be
-used for modding the game, searching for hidden content, and creating fan
-translations. The main focus of the tools is on the dumping and editing of
-in-game text.
+VDSTools is a suite of command-line translation and hacking tools for the
+hitherto untranslated 1997 PlayStation 1 game The Chronicles of Velldeselba 
+~ The Order of Wings ~ (ベルデセルバ戦記～翼の勲章～) developed by Tenky and 
+published by Sony Computer Entertainment. It can be used for modding the 
+game, searching for hidden content, and creating fan translations. The main 
+focus of the tools is on the dumping and editing of in-game text.
+
+Airships bring great prosperity to the lands of Velldeselba, but it also
+brings great treachery, as nations continue their centuries-old rivalries 
+in the air. Neupasque are on the verge of defeat to their large, aggressive 
+neighbour Geetang. Can the interstellar castaway Misaki turn the tide of 
+this war?
+
+Why Velldeselba? Modern emulators like DuckStation bring the power of 
+graphics cards to old 3D video games. With upscaling and cel-shading post-
+processing, these games look pretty good. My goals for this project are:
+1. Translate the game.
+2. Increase the draw distance in the 3D flight simulation sections.
+3. Upscale the 2D sections.
+
+VDSTools is derived from FF7Tools by cebix. This project further documents
+Velldeselba, and may assist others who seek to translate CD-based video
+games. The following text remains unmodified from the original project as 
+the new project investigates how these tools can be used for Velldeselba.
+
+--END--
 
 The included tools are:
 
